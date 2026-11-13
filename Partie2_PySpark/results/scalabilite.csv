@@ -1,0 +1,9 @@
+m,lignes,taille_mo,methode,coeurs,temps_s,temps_min_s
+500,5000000,30.541,spark_rdd_reduce,1,103.3203,90.5806
+500,5000000,30.541,spark_dataframe,1,19.4838,18.4626
+500,5000000,30.541,spark_rdd_reduce,2,49.3919,48.989
+500,5000000,30.541,spark_dataframe,2,14.545,13.4353
+500,5000000,30.541,spark_rdd_reduce,4,29.5017,29.2498
+500,5000000,30.541,spark_dataframe,4,12.3162,9.2951
+500,5000000,30.541,spark_rdd_reduce,8,21.3398,20.2936
+500,5000000,30.541,spark_dataframe,8,7.5298,5.9609

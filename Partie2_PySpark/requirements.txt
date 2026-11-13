@@ -1,0 +1,7 @@
+# Installées dans l'image Docker (voir Dockerfile)
+pyspark==4.2.0
+pandas==2.3.3
+psutil==7.1.3
+pytest==9.1.1
+jupyter==1.1.1
+matplotlib==3.10.6

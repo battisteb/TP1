@@ -1,0 +1,13 @@
+m,lignes,taille_mo,methode,temps_total_s
+1,10000,0.061,spark_rdd_reduce,35.764
+1,10000,0.061,spark_dataframe,37.712
+10,100000,0.611,spark_rdd_reduce,30.24
+10,100000,0.611,spark_dataframe,36.716
+100,1000000,6.108,spark_rdd_reduce,34.159
+100,1000000,6.108,spark_dataframe,34.609
+500,5000000,30.541,spark_rdd_reduce,61.016
+500,5000000,30.541,spark_dataframe,41.603
+1000,10000000,61.082,spark_rdd_reduce,72.708
+1000,10000000,61.082,spark_dataframe,88.33
+2000,20000000,122.164,spark_rdd_reduce,156.675
+2000,20000000,122.164,spark_dataframe,132.851
